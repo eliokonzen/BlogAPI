@@ -22,7 +22,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <InternalsVisibleTo Include="Blog.Api.Test.Integration" />
+    <InternalsVisibleTo Include="Blog.API.Test.Integration" />
   </ItemGroup>
 
 
